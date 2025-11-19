@@ -41,10 +41,9 @@ A personal portfolio showcasing my skills and projects.
 
 ## 📊 GitHub Stats  
 
-> Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakshitha-M-B&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshitha-M-B&layout=compact&theme=radical)
 
 ---
 
