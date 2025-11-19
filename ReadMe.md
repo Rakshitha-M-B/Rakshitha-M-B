@@ -30,7 +30,6 @@ Welcome to my digital space! I’m passionate about turning ideas into real proj
 ---
 
 ## 📌 Projects  
-(*Replace with your real projects — I can help format them!*)
 
 ### 🌐 Portfolio Website  
 A personal portfolio showcasing my skills and projects.  
